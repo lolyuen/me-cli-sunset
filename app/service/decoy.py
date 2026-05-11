@@ -25,6 +25,11 @@ class DecoyPackage:
             "price": 0,
             "last_fetched_at": 0
         },
+        "default-xlpass": {
+            "option_code": "",
+            "price": 0,
+            "last_fetched_at": 0
+        },
         "default-qris": {
             "option_code": "",
             "price": 0,
